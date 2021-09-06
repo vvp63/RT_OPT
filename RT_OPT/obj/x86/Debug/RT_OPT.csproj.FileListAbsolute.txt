@@ -1,0 +1,9 @@
+D:\Poliektov\openbroker\RT_OPT\RT_OPT\obj\x86\Debug\RT_OPT.Properties.Resources.resources
+D:\Poliektov\openbroker\RT_OPT\RT_OPT\obj\x86\Debug\RT_OPT.csproj.GenerateResource.Cache
+D:\Poliektov\openbroker\RT_OPT\RT_OPT\bin\Debug\RT_OPT.exe.config
+D:\Poliektov\openbroker\RT_OPT\RT_OPT\bin\Debug\RT_OPT.exe
+D:\Poliektov\openbroker\RT_OPT\RT_OPT\bin\Debug\RT_OPT.pdb
+D:\Poliektov\openbroker\RT_OPT\RT_OPT\obj\x86\Debug\RT_OPT.exe
+D:\Poliektov\openbroker\RT_OPT\RT_OPT\obj\x86\Debug\RT_OPT.pdb
+D:\Poliektov\openbroker\RT_OPT\RT_OPT\obj\x86\Debug\RT_OPT.MainForm.resources
+D:\Poliektov\openbroker\RT_OPT\RT_OPT\obj\x86\Debug\RT_OPT.csprojResolveAssemblyReference.cache

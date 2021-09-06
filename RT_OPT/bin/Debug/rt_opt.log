@@ -1,0 +1,48 @@
+10.02.2016 10:06:25.41  ---QUOTE 0 100 RI_70000
+10.02.2016 10:06:25.43     HedgingTP 100 True 6:6 RI70000BO6 (4980-5100)
+10.02.2016 10:06:25.43     QuotingTP 100 False RI70000BC6   B: 2680/0   S: 3100/1  20 
+10.02.2016 10:06:25.43     Setting quoting False     Buy:False Bell:False
+10.02.2016 10:06:25.43  ---QUOTE 1 102 RI_75put:70call
+10.02.2016 10:06:25.43     HedgingTP 102 True 0:0 RI70000BC6 (2840-2960)
+10.02.2016 10:06:25.43     QuotingTP 102 False RI75000BO6   B: 7440/0   S: 7960/0  20 
+10.02.2016 10:06:25.43     Setting quoting False     Buy:False Bell:False
+10.02.2016 10:20:38.14  ---QUOTE 0 100 RI_70000
+10.02.2016 10:20:38.15     HedgingTP 100 True 6:6 RI70000BO6 (4740-4800)
+10.02.2016 10:20:38.15     QuotingTP 100 False RI70000BC6   B: 2980/0   S: 3340/1  20 200 
+10.02.2016 10:20:38.15     Setting quoting False     Buy:False Bell:False
+10.02.2016 10:20:38.15  ---QUOTE 1 102 RI_75put:70call
+10.02.2016 10:20:38.16     HedgingTP 102 True 0:0 RI70000BC6 (2980-3030)
+10.02.2016 10:20:38.16     QuotingTP 102 False RI75000BO6   B: 7370/0   S: 7820/0  20 200 
+10.02.2016 10:20:38.16     Setting quoting False     Buy:False Bell:False
+17.05.2017 12:19:12.67  ---QUOTE 0 104 RI  80C : 70P
+17.05.2017 12:19:12.69     HedgingTP 104 True 0:0 RI70000BO6 (0-0)
+17.05.2017 12:19:12.69     QuotingTP 104 False RI80000BC6   B: 0/1   S: 0/0  10 50 
+17.05.2017 12:19:12.69     Setting quoting False     Buy:False Bell:False
+17.05.2017 12:19:12.69  ---QUOTE 1 108 RI  70P : 82,5C
+17.05.2017 12:19:12.69     HedgingTP 108 True 0:0 RI82500BC6 (0-0)
+17.05.2017 12:19:12.70     QuotingTP 108 False RI70000BO6   B: 0/1   S: 0/0  10 50 
+17.05.2017 12:19:12.70     Setting quoting False     Buy:False Bell:False
+17.05.2017 12:19:12.70  ---QUOTE 2 109 RI  67,5P : 82,5C
+17.05.2017 12:19:12.70     HedgingTP 109 True 0:0 RI67500BO6 (0-0)
+17.05.2017 12:19:12.70     QuotingTP 109 False RI82500BC6   B: 0/1   S: 0/0  10 50 
+17.05.2017 12:19:12.70     Setting quoting False     Buy:False Bell:False
+17.05.2017 12:22:47.46  ---QUOTE 0 104 RI  80C : 70P
+17.05.2017 12:22:47.46     HedgingTP 104 True 0:0 RI70000BO6 (0-0)
+17.05.2017 12:22:47.47     QuotingTP 104 False RI80000BC6   B: 0/1   S: 0/0  10 50 
+17.05.2017 12:22:47.47     Setting quoting False     Buy:False Bell:False
+17.05.2017 12:22:47.47  ---QUOTE 1 108 RI  70P : 82,5C
+17.05.2017 12:22:47.47     HedgingTP 108 True 0:0 RI82500BC6 (0-0)
+17.05.2017 12:22:47.47     QuotingTP 108 False RI70000BO6   B: 0/1   S: 0/0  10 50 
+17.05.2017 12:22:47.47     Setting quoting False     Buy:False Bell:False
+17.05.2017 12:22:47.47  ---QUOTE 2 109 RI  67,5P : 82,5C
+17.05.2017 12:22:47.47     HedgingTP 109 True 0:0 RI67500BO6 (0-0)
+17.05.2017 12:22:47.47     QuotingTP 109 False RI82500BC6   B: 0/1   S: 0/0  10 50 
+17.05.2017 12:22:47.47     Setting quoting False     Buy:False Bell:False
+06.09.2021 11:53:09.72  ---QUOTE 0 102 RI  70C : 75P
+06.09.2021 11:53:09.73     HedgingTP 102 True 0:0 RI75000BO6 (3830-3920)
+06.09.2021 11:53:09.73     QuotingTP 102 False RI70000BC6   B: 5230/1   S: 5520/0  20 50 
+06.09.2021 11:53:09.73     Setting quoting False     Buy:False Bell:False
+06.09.2021 11:53:09.73  ---QUOTE 1 105 RI  80C : 65P
+06.09.2021 11:53:09.73     HedgingTP 105 True 0:0 RI65000BO6 (620-630)
+06.09.2021 11:53:09.73     QuotingTP 105 False RI80000BC6   B: 870/1   S: 1030/0  10 50 
+06.09.2021 11:53:09.74     Setting quoting False     Buy:False Bell:False
