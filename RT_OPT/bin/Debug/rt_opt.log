@@ -46,3 +46,11 @@
 06.09.2021 11:53:09.73     HedgingTP 105 True 0:0 RI65000BO6 (620-630)
 06.09.2021 11:53:09.73     QuotingTP 105 False RI80000BC6   B: 870/1   S: 1030/0  10 50 
 06.09.2021 11:53:09.74     Setting quoting False     Buy:False Bell:False
+06.09.2021 12:28:13.71  ---QUOTE 0 102 RI  70C : 75P
+06.09.2021 12:28:13.71     HedgingTP 102 True 0:0 RI75000BO6 (3830-3920)
+06.09.2021 12:28:13.71     QuotingTP 102 False RI70000BC6   B: 5230/1   S: 5520/0  20 50 
+06.09.2021 12:28:13.72     Setting quoting False     Buy:False Bell:False
+06.09.2021 12:28:13.72  ---QUOTE 1 105 RI  80C : 65P
+06.09.2021 12:28:13.72     HedgingTP 105 True 0:0 RI65000BO6 (620-630)
+06.09.2021 12:28:13.72     QuotingTP 105 False RI80000BC6   B: 870/1   S: 1030/0  10 50 
+06.09.2021 12:28:13.73     Setting quoting False     Buy:False Bell:False
